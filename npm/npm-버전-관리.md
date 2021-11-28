@@ -17,10 +17,12 @@ Npm의 버전은 시멘틱 버저닝을 사용하는데 그 의미는 다음과 
 아래와 같은 `pakcage.json`파일이 있다고 했을 때의 해석이 궁금했었다.
 
 ```json
-"dependencies": {
-  "my_dep": "^1.0.0",
-  "another_dep": "~2.2.0"
-},
+{
+  "dependencies": {
+    "my_dep": "^1.0.0",
+    "another_dep": "~2.2.0"
+  }
+}
 ```
 
 [npm semver calculator](https://semver.npmjs.com/) 페이지에서 loadash 패키지 기준으로 확인하였다.
