@@ -1,16 +1,16 @@
-- [Pipeline Syntax](#pipeline-syntax)
-    * [Sections](#sections)
-        + [Agent](#agent)
-        + [Post](#post)
-        + [Stages](#stages)
-        + [Steps](#steps)
-    * [Declarative](#declarative)
-        + [Environment](#environment)
-        + [Parameter](#parameter)
-        + [Triggers](#triggers)
-        + [When](#when)
+**Table Of Contents**
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+- [Pipeline Syntax](#pipeline-syntax)
+    - [Sections](#sections)
+        - [Agent](#agent)
+        - [Post](#post)
+        - [Stages](#stages)
+        - [Steps](#steps)
+    - [Declarative](#declarative)
+        - [Environment](#environment)
+        - [Parameter](#parameter)
+        - [Triggers](#triggers)
+        - [When](#when)
 
 # Pipeline Syntax
 

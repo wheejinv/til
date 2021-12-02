@@ -1,11 +1,10 @@
+**Table Of Contents**
 - [Docker Compose](#docker-compose)
-    * [도커 컴포즈를 쓰지 않고 워드프레스 셋팅하는 경우](#---------------------------)
-        + [언인스톨](#----)
-    * [도커 컴포즈로 셋팅.](#----------)
-        + [docker compose 실행](#docker-compose---)
-        + [docker compose 중지](#docker-compose---)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+    - [도커 컴포즈를 쓰지 않고 워드프레스 셋팅하는 경우](#도커-컴포즈를-쓰지-않고-워드프레스-셋팅하는-경우)
+        - [언인스톨](#언인스톨)
+    - [도커 컴포즈로 셋팅.](#도커-컴포즈로-셋팅)
+        - [docker compose 실행](#docker-compose-실행)
+        - [docker compose 중지](#docker-compose-중지)
 
 # Docker Compose
 
