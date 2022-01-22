@@ -1,13 +1,14 @@
 # til
 ✍️ Today I Learned
 
-총 5개의 TIL 이 있습니다.
+총 6개의 TIL 이 있습니다.
 
 ---
 
 # Category
 * [Docker](#docker)
 * [Jenkins](#jenkins)
+* [node](#node)
 * [npm](#npm)
 * [Study](#study)
 
@@ -21,6 +22,10 @@
 
 - [CI/CD 그리고 Jenkins](/jenkins/ci-cd-jenkins-알아보기.md)
 - [젠킨스 Pipeline 문법](/jenkins/pipeline-syntax.md)
+
+### Node
+
+- [NODE_ENV](/node/node-env.md)
 
 ### NPM
 
