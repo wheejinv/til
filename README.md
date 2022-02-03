@@ -1,7 +1,7 @@
 # til
 ✍️ Today I Learned
 
-총 6개의 TIL 이 있습니다.
+총 7개의 TIL 이 있습니다.
 
 ---
 
@@ -10,6 +10,7 @@
 * [Jenkins](#jenkins)
 * [node](#node)
 * [npm](#npm)
+* [React]($react)
 * [Study](#study)
 
 ---
@@ -30,6 +31,10 @@
 ### NPM
 
 - [Npm에서의 버전 관리](/npm/npm-버전-관리.md)
+
+### React
+
+- [이력조사: @babel/plugin-proposal-class-properties](/react/plugin-proposal-class-properties.md)
 
 ### Study
 
